@@ -1,0 +1,15 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+header
+{
+ width: 1500px;
+ height: 100vh;
+ background-image:url(pk.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
